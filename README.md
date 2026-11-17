@@ -14,7 +14,6 @@ Song Sukree is an Informatics (computer science) teacher at Danggok High School 
 
 대학 강의
 - 2020~2026.8 서울대학교 사범대학 강사, 서울대학교 평생교육원 강사
-- AI융합교육대학원 강사(한 학기)
 
 그 밖의 경력
 - 2025 서울시교육청 '0호 교사 개발자'
