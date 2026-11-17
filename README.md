@@ -70,4 +70,5 @@ Song Sukree is an Informatics (computer science) teacher at Danggok High School 
 ## 링크
 
 - 소개 페이지: https://greatsong.github.io/
+- ORCID: https://orcid.org/0009-0004-2684-169X
 - 프로젝트 모음: https://greatsong.github.io/project-showcase/
